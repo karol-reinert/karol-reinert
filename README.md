@@ -2,7 +2,7 @@
 🔭 I’m currently working on enhancing my DevOps skills and exploring new technologies to streamline development processes.<br>👯 I’m looking to collaborate on innovative software development projects, especially those that leverage PHP, Laravel, Kubernetes, and Nginx.<br>🌱 I’m currently learning Helm to improve my expertise in Kubernetes package management.<br>💬 Ask me about PHP, Laravel, Kubernetes, or anything related to software development and DevOps.<br>⚡ My journey: I have 6 years of work experience as a software developer with a strong focus on DevOps practices!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3b3eqbmyg4aqul9fqlmenc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karol-reinert) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/HeteroCharlie) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@karol-reinert) 
 
 # 💻 Tech Stack:
